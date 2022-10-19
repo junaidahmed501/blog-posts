@@ -1,4 +1,4 @@
-## ES6: How to distinguish between spread & rest operators?
+# ES6: How to distinguish between spread & rest operators?
 
 > This tip is for those learners who already know what spread & rest operators are but sometimes are unclear when one is being used.
 
