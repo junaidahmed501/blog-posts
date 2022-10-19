@@ -1,4 +1,4 @@
-## Setting up your system (Ubuntu 18.04) to run different versions of Python & Django
+# Setting up your system (Ubuntu 18.04) to run different versions of Python & Django
 
 I started this guide as a cheat sheet for myself for the times when I needed to created **Django** project or when I needed to run multiple **Python** versions. This is an all-rounder guide towards having multiple Python versions even if we don’t need Django.
 
