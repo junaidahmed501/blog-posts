@@ -32,12 +32,14 @@ Usage:
 
 ```xml
 <ion-item no-margin no-padding class="clear-item-inner">
-<ion-label> <ion-icon name="md-lock"></ion-icon></ion-label>
-<ion-input #toggleInput formControlName="password" class="half-inp half-border-inp" type="password" placeholder="Password"></ion-input>
-
-<button class="showhidePass" color="light" ion-button type="button" clear item-end passwordToggle [appTargetInput]="toggleInput">
-<ion-icon name="eye"></ion-icon>
-</button>
+    <ion-label>
+        <ion-icon name="md-lock"></ion-icon>
+    </ion-label>
+    <ion-input #toggleInput formControlName="password" class="half-inp half-border-inp" type="password" placeholder="Password"></ion-input>
+    
+    <button class="showhidePass" color="light" ion-button             type="button" clear item-end passwordToggle     [appTargetInput]="toggleInput">
+    <ion-icon name="eye"></ion-icon>
+    </button>
 </ion-item>
 ```
 
