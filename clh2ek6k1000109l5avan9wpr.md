@@ -5,28 +5,29 @@ seoDescription: "Download & fill on your own English Nikah Nama for the German &
 datePublished: Sat Apr 29 2023 19:55:34 GMT+0000 (Coordinated Universal Time)
 cuid: clh2ek6k1000109l5avan9wpr
 slug: nikah-naama-in-english
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682798332919/2beed5c0-6d6b-42fc-95d3-5f24bacd25c1.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682797911302/c92b7f88-df79-44ba-96f6-719cfa214fb0.jpeg
 tags: nikahnamah, nikanama, english-nikahnama, english-translation-marriage-certificate, embassy
 
 ---
 
-Do you have an upcomming appointment with the German Embassy in Pakistan & you need the **<mark>English Translation of Nika Nama </mark> ?** You are in luck because I've got just the right document & advice for you.
+Do you have an upcoming appointment with the German Embassy in Pakistan & need the **<mark>English Translation of Nika Nama</mark>?** You are in luck because I've got just the right document & advice for you.
 
 ## Context
 
 First things first, let me give you some context of why I needed this document & for which visa category. Let's jump right in.
 
-I recently had to appear for my appointment for the Work-Visa under the Blue-card category in the German Embassy. I am married & wanted to bring my wife along. Turns out, if you qualify for a blue-card, you can take your wife (spouse) along with you on your own appointment. Very convenient, thanks to the German Embassy.
+I recently had to appear for my appointment for the Work-Visa under the Blue-card category in the German Embassy. I am married & wanted to bring my wife along. Turns out, if you qualify for a blue card, you can take your wife (spouse) along with you on your appointment. Very convenient, thanks to the German Embassy.
 
-This also meant that I had to collect documents for wife's application-under [family re-union visa category](https://pakistan.diplo.de/pk-en/service/1-visa-fz-seite/1676108). Remember, this is very important. There are still two visa applications, one for you & one for your spouse. Yes, you can take your spouse with you but it doesn't mean there is no application category for her.
+This also meant that I had to collect documents for my wife's application, under the [family reunion visa category](https://pakistan.diplo.de/pk-en/service/1-visa-fz-seite/1676108). Remember, this is very important. There are still two visa applications, one for you & one for your spouse. Yes, you can take your spouse with you but it doesn't mean there is no application category for her.
 
-So, I had to fill two applications, one for me for my work-visa & one for my wife under [family-reunion visa](https://pakistan.diplo.de/pk-en/service/1-visa-fz-seite/1676108). This is what the document checklist looks like for family-reunion visa*(the red-underlined point 12 is topic of this article)*
+So, I had to fill out two applications, one for me for my work visa & one for my wife under a [family reunion visa](https://pakistan.diplo.de/pk-en/service/1-visa-fz-seite/1676108). This is what the document checklist looks like for a family reunion visa\*(the red-underlined point 12 is the topic of this article)\*
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682783680823/7ecdb597-a7c7-4b55-be9c-357f68d6d9b6.jpeg align="center")
 
 As you can see, the Point 12 is the most troublesome. I searched a lot & found a couple of documents appearing on most of the sites.
 
-One of them was <mark>this 2-page document that I used</mark>. You can find the pdf link below where you can download it for free. I'm unable to add the PDF because the software I use for my website won't allow me upload PDFs, sorry.
+One of them was <mark>this 2-page document that I used</mark>. You can find the pdf link below where you can download it for free. I'm unable to add the PDF because the software I use for my website won't allow me to upload PDFs, sorry.
 
 However, I shall upload it on a couple of different sites for people to download from in case one of them doesn't work.
 
@@ -48,18 +49,18 @@ I found this document rather easily but I was still confused about a few things:
     
 * Can I fill it on my own?
     
-* Do I need to have it attested or notarised?
+* Do I need to have it attested or notarized?
     
 
-And million other questions. However, I took a chance of filling it on my own & presenting it to the German Embassy. It turns out:
+And a million other questions. However, I took a chance of filling it on my own & presenting it to the German Embassy. It turns out:
 
 * There is no right format
     
 * There is no need for certified English or anything
     
-* You can & should fill it on your own
+* You can & should fill it out on your own
     
-* No need to have it attested or notarised
+* No need to have it attested or notarized
     
 
 Enough with the story, <mark>find the file here</mark>.
