@@ -1,5 +1,5 @@
 ---
-title: "Streamlining Your Visa Application: A Step-by-Step Guide to Translating the Nikah Nama for the German Embassy"
+title: "Easy Nikah Nama Translation Guide for the German Embassy"
 seoTitle: "German Embassy Visa Application: Easy Nikah Nama Translation Guide for"
 seoDescription: "A Step-by-Step Guide to Translating the Nikah Nama for the German Embassy"
 datePublished: Fri Jan 12 2024 14:29:46 GMT+0000 (Coordinated Universal Time)
