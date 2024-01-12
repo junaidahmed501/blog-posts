@@ -31,3 +31,7 @@ Planning a visit to the German Embassy in Pakistan for a Blue Card work visa? If
         
 
 **Pro Tip:** In case of technical issues with the links, you can easily create a PDF. Download the Nikah Nama images provided and use Tinywow to convert them into a PDF in a flash.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682784976454/0850324e-e27a-419a-b7f5-64ebc856c5c3.jpeg?auto=compress,format&format=webp align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682785015360/4f039c3b-746f-40c5-bcfe-d181857d87ec.jpeg?auto=compress,format&format=webp align="center")
